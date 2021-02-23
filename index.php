@@ -69,7 +69,7 @@
         <button id="mostra3" class="btn btn-outline-light btn-block btn-sm">SHOW/HIDE</button><br>
         </div>
         <div class="card-body ">
-        <h6><p style="text-align:left; color: #fff;margin-bottom:5px" class="card-title" ><span id="cLive2" class="badge bg-danger" style="margin-top: 9px;margin-bottom:5px">0</span> - Dead
+        <h6><p style="text-align:left; color: #fff;margin-bottom:5px" class="card-title" ><span id="cLive2" class="badge bg-danger" style="margin-top: 9px;margin-bottom:5px">0</span> - Dead</p></h6>
         <div id="bode3"><span id=".reprovadas" class="reprovadas"></span>
         </div>
         </div>
