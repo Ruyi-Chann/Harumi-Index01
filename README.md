@@ -8,8 +8,3 @@ If you will use this index, please add credits. TY!
 To add api's, refer to *cf.php*
 
 Peace.
-
-
-
-PS: I Forgot to change the tags in the boxes of (should be) CVV, CCN, and Dead. Please change it accordingly.
- 
