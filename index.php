@@ -38,7 +38,7 @@
     <!-- -->
     <br><br><br>
         <div class="col-md-13">
-        <div class="card"style="background:#2c2e36;background-color: transparent;">
+        <div class="card" style="background:#2c2e36;background-color: rgba(0,0,0,0.2);">
         <div style="position: absolute;top: 0;right: 0;">
         <button id="mostra1" class="btn btn-outline-light btn-block btn-sm">SHOW/HIDE</button><br>
         </div>
@@ -51,7 +51,7 @@
         </div><br>
 
         <div class="col-md-13">
-        <div class="card"style="background:#2c2e36;background-color: transparent;">
+        <div class="card"style="background:#2c2e36;background-color: rgba(0,0,0,0.2);">
         <div style="position: absolute;top: 0;right: 0;">
         <button id="mostra2" class="btn btn-outline-light btn-block btn-sm">SHOW/HIDE</button><br>
         </div>
@@ -64,12 +64,12 @@
         </div><br>
 
         <div class="col-md-13">
-        <div class="card"style="background:#2c2e36;background-color: transparent;">
+        <div class="card"style="background:#2c2e36;background-color: rgba(0,0,0,0.2);">
         <div style="position: absolute;top: 0;right: 0;">
         <button id="mostra3" class="btn btn-outline-light btn-block btn-sm">SHOW/HIDE</button><br>
         </div>
         <div class="card-body ">
-        <h6><p style="text-align:left; color: #fff;margin-bottom:5px" class="card-title" ><span id="cLive2" class="badge bg-danger" style="margin-top: 9px;margin-bottom:5px">0</span> - Dead</p></h6>
+        <h6><p style="text-align:left; color: #fff;margin-bottom:5px" class="card-title" ><span id="cLive2" class="badge bg-danger" style="margin-top: 9px;margin-bottom:5px">0</span> - DEAD</p></h6>
         <div id="bode3"><span id=".reprovadas" class="reprovadas"></span>
         </div>
         </div>
