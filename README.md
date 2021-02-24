@@ -1,5 +1,5 @@
 
-![demo](https://8ghtchecker.000webhostapp.com/tempsnip.png)
+![demo](https://8ghtchecker.000webhostapp.com/Capture.PNG)
 
 Simple (FREE) Index by Arceus (my telegram username are in the picture if u have doubts.)
 
