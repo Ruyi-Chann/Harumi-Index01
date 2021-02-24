@@ -1,6 +1,7 @@
 <?php include_once('cf.php'); ?>
 <!-- coded by arceus @rceus|@Harumii1 -->
 <!-- for assigning badges to your api, refer to https://getbootstrap.com/docs/5.0/getting-started/introduction/-->
+<!-- credits to every member in !-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
